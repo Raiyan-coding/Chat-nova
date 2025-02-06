@@ -147,6 +147,111 @@
     ],
     "answer": "আমি ChatNova, একটি কোডেড চ্যাটবট।"
   },
+
+
+
+
+
+  {
+    "synonyms": [
+        "Bangladesh chatroleague",
+        "Bangladesh chatrolig"
+    ],
+    "answer": "নেতা আমাদের শেখ মুজিব।"
+  },
+  {
+    "synonyms": [
+        "sikkha santi"
+    ],
+    "answer": "প্রগতি প্রগতি।"
+  },
+
+  {
+    "synonyms": [
+        "Ekattorer hatiyar",
+        "muktijuddher hatiyar"
+    ],
+    "answer": "গর্জে উঠুক আরেকবার।"
+  },
+
+  {
+    "synonyms": [
+        "Tomar amar thikana"
+    ],
+    "answer": "পদ্মা মেঘনা যমুনা"
+  },
+
+  {
+    "synonyms": [
+        "Tumi ke ami ke"
+    ],
+    "answer": "বাঙালি বাঙালি"
+  },
+  {
+    "synonyms": [
+        "Lal sobujer potakay"
+    ],
+    "answer": "পিতা তোমায় দেখা যায়।"
+  },
+  {
+    "synonyms": [
+        "Bangladesher opor naam"
+    ],
+    "answer": "শেখ মুজিবুর রহমান।"
+  },
+
+  {
+    "synonyms": [
+        "Moulobader astana",
+        "Jongibader astana"
+    ],
+    "answer": "ভেঙ্গে দাও গুড়িয়ে দাও।"
+  },
+
+  {
+    "synonyms": [
+        "Hoi hoi roi roi"
+    ],
+    "answer": "জামাত শিবির গ্যালি কয়।"
+  },
+  {
+    "synonyms": [
+        "Ekta ekta shibir dhor"
+    ],
+    "answer": "ধইরা ধইরা Jobai kor।"
+  },
+
+  {
+    "synonyms": [
+        "Jamaat shibir razakar"
+    ],
+    "answer": "এই মুহূর্তে বাংলা ছার।"
+  },
+
+  {
+    "synonyms": [
+        "Sheikh Hasinar voy nai"
+    ],
+    "answer": "রাজপথ ছাড়ি নাই।"
+  },
+
+  {
+    "synonyms": [
+        "Sei netri"
+    ],
+    "answer": "শেখ হাসিনা।"
+  },
+
+
+
+
+
+
+
+
+
+
+
   {
     "synonyms": [
       "How were you created?",
