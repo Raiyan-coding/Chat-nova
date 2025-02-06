@@ -13,15 +13,27 @@ async function loadResponses() {
 // Function to check for partial matches in the user input using synonyms
 async function checkForPartialMatch(userInput) {
     const responses = await loadResponses();  // Load responses from the JSON file
-    // Normalize user input for case-insensitive matching
-    const normalizedInput = userInput.toLowerCase();
+    const normalizedInput = userInput.toLowerCase();  // Normalize user input for case-insensitive matching
 
-    // Loop through each response entry (each entry is an object with synonyms and an answer)
     for (let entry of responses) {
-        // Loop through each synonym in the current entry
+        let foundMatch = false;
+
+        // Check each synonym with regex for better matching
         for (let synonym of entry.synonyms) {
-            if (normalizedInput.includes(synonym.toLowerCase())) {
-                return entry.answer;  // Return the answer if any synonym matches
+            let regex = new RegExp(`\\b${synonym}\\b`, 'i');  // Word boundary and case-insensitive match
+            if (regex.test(normalizedInput)) {
+                foundMatch = true;
+                break;
+            }
+        }
+
+        if (foundMatch) {
+            // Randomize the answer selection if there are multiple answers
+            if (Array.isArray(entry.answer)) {
+                const randomIndex = Math.floor(Math.random() * entry.answer.length);
+                return entry.answer[randomIndex];  // Return a random answer
+            } else {
+                return entry.answer;  // Return the single answer
             }
         }
     }
