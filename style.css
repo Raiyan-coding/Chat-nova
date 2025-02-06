@@ -1,0 +1,171 @@
+/* ChatGPT-Themed Chat Interface */
+
+/* General Styles */
+body {
+    background-color: #343541;
+    color: #d1d5db;
+    font-family: "Arial", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.chat-container {
+    background-color: #40414f;
+    width: 400px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+}
+
+/* Chat Box */
+.chat-box {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #028a7e #40414f;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-box::-webkit-scrollbar {
+    width: 6px;
+}
+
+.chat-box::-webkit-scrollbar-thumb {
+    background-color: #565869;
+    border-radius: 10px;
+}
+
+/* Messages */
+.message {
+    max-width: 80%;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+/* Bot Message with Gradient */
+.bot-message {
+    background: linear-gradient(135deg, #282e5c, #292d52);
+    align-self: flex-start;
+    text-align: left;
+    color: rgb(126, 126, 126);
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 80%;
+}
+
+/* User Message with Gradient */
+.user-message {
+    background: linear-gradient(135deg, #1c7a38, #0fbf8e);
+    color: white;
+    align-self: flex-end;
+    text-align: right;
+    padding: 10px;
+    border-radius: 8px;
+    max-width: 80%;
+}
+
+/* Input Section */
+.user-input {
+    width: calc(100% - 80px);
+    padding: 10px;
+    border: none;
+    background-color: #565869;
+    color: white;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+button {
+    background-color: #0d9276;
+    color: white;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 14px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.1s ease-in-out;
+    outline: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    isolation: isolate;
+}
+
+/* Adding an inner glow effect */
+button::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    border-radius: inherit;
+    z-index: -1;
+}
+
+/* Adding a subtle glass reflection effect */
+button::after {
+    content: "";
+    position: absolute;
+    top: -40%;
+    left: -40%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 60%);
+    transform: rotate(25deg);
+    border-radius: 50%;
+    z-index: 1;
+    opacity: 0.4;
+}
+
+
+button:hover {
+    background-color: #0b7d63;
+}
+.chat-title {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #d1d5db;
+    padding: 15px 0;
+    background-color: #444654;
+    margin: 0;
+    border-radius: 10px 10px 0 0;
+}
+/* Add this CSS to your style.css file */
+.bot-typing {
+    font-style: italic;
+    color: gray;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* Animation for the typing effect */
+.bot-typing::after {
+    content: '.';
+    animation: typing 0.7s infinite steps(1, end);
+}
+
+@keyframes typing {
+    0% { content: '.'; }
+    33% { content: '..'; }
+    66% { content: '...'; }
+    100% { content: '.'; }
+}

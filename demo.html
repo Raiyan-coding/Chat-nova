@@ -1,0 +1,68 @@
+// Function to fetch responses from the JSON file
+async function loadResponses() {
+    try {
+        const response = await fetch('responses.json');  // Fetch the JSON file
+        const data = await response.json();  // Parse JSON
+        return data;
+    } catch (error) {
+        console.error("Error loading responses:", error);
+        return {};
+    }
+}
+
+// Function to check for partial matches in the user input
+async function checkForPartialMatch(userInput) {
+    const responses = await loadResponses();  // Load responses from the JSON file
+    for (let key in responses) {
+        if (userInput.includes(key.toLowerCase())) {
+            return responses[key];  // Return the matching response
+        }
+    }
+    return null;  // If no match found
+}
+
+async function sendMessage() {
+    const userInput = document.getElementById("user-input").value.trim().toLowerCase();
+    const chatBox = document.getElementById("chat-box");
+
+    if (userInput !== "") {
+        const userMessage = document.createElement("div");
+        userMessage.classList.add("user-message");
+        userMessage.textContent = ` ${userInput}`;
+        chatBox.appendChild(userMessage);
+
+        const botResponse = document.createElement("div");
+        botResponse.classList.add("bot-response");
+
+        const response = await checkForPartialMatch(userInput);
+
+        if (response) {
+            botResponse.textContent = `ChatNova : ${response}`;
+        } else if (isMathExpression(userInput)) {
+            const result = solveMathExpression(userInput);
+            botResponse.textContent = `ChatNova : The answer is ${result}`;
+        } else {
+            botResponse.textContent = `ChatNova : I don't understand that.`;
+        }
+
+        chatBox.appendChild(botResponse);
+        document.getElementById("user-input").value = "";
+        chatBox.scrollTop = chatBox.scrollHeight;
+    }
+}
+
+function isMathExpression(input) {
+    return /^[0-9+\-*/().\s]*$/.test(input);  // Simple check for valid math characters
+}
+
+function solveMathExpression(input) {
+    try {
+        return eval(input);  // Evaluate the math expression safely
+    } catch (e) {
+        return "Invalid math expression.";
+    }
+}
+
+
+
+
