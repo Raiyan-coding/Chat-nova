@@ -2,7 +2,8 @@
 
 /* General Styles */
 body {
-    background-color: #343541;
+    background: linear-gradient(to right, #454d4e, #0f282e);
+
     color: #d1d5db;
     font-family: "Arial", sans-serif;
     display: flex;
@@ -13,7 +14,7 @@ body {
 }
 
 .chat-container {
-    background-color: #40414f;
+    background: linear-gradient(to right, #291c1d, #370042);
     width: 400px;
     height: 800px;
     display: flex;
@@ -61,6 +62,7 @@ body {
     padding: 10px;
     border-radius: 8px;
     max-width: 80%;
+    font-family: 'Playfair Display', serif;
 }
 
 /* User Message with Gradient */
@@ -72,6 +74,7 @@ body {
     padding: 10px;
     border-radius: 8px;
     max-width: 80%;
+    font-family: 'Playfair Display', serif;
 }
 
 /* Input Section */
@@ -85,6 +88,7 @@ body {
     font-size: 16px;
     border-radius: 5px;
     margin: 10px;
+    font-family: 'Playfair Display', serif;
 }
 
 button {
@@ -162,6 +166,8 @@ button:hover {
     content: '.';
     animation: typing 0.7s infinite steps(1, end);
 }
+
+
 
 @keyframes typing {
     0% { content: '.'; }
