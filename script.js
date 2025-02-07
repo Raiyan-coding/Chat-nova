@@ -125,5 +125,37 @@ function loadChatHistory() {
     chatBox.scrollTop = chatBox.scrollHeight;  // Auto-scroll to the bottom
 }
 
+document.addEventListener("DOMContentLoaded", function () {
+    let inputField = document.getElementById("user-input");
+    let sendButton = document.querySelector("button");
+
+    inputField.addEventListener("keypress", function (event) {
+        if (event.key === "Enter") {
+            event.preventDefault(); // Prevent default behavior
+            sendButton.click(); // Clicks the send button
+        }
+    });
+});
+
+
+
+
+
+
+
+
+    // Delete localStorage when Delete key is pressed
+    document.addEventListener("keydown", function (event) {
+        if (event.key === "Delete") {
+            localStorage.clear(); // Clear chat history from local storage
+            alert("Chat history deleted!"); // Optional: Show alert
+            location.reload(); // Reload the page to clear chat display
+        }
+    });
+
+
+
+
+
 // Load chat history when the page is loaded
 window.onload = loadChatHistory;
