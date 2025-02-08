@@ -1424,7 +1424,176 @@
           "synonyms": "118th element ec",
           "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p6"
         },
-           
+               {
+            "synonyms": "dhan",
+            "answer": "Oryza sativa"
+          },
+          {
+            "synonyms": "paat",
+            "answer": "Corchorus capsularis"
+          },
+          {
+            "synonyms": "aam",
+            "answer": "Mangifera indica"
+          },
+          {
+            "synonyms": "kathal",
+            "answer": "Artocarpus heterophyllus"
+          },
+          {
+            "synonyms": "shapla",
+            "answer": "Nymphaea nouchali"
+          },
+          {
+            "synonyms": "joba",
+            "answer": "Hibiscus rosa-sinensis"
+          },
+          {
+            "synonyms": "narkel",
+            "answer": "Cocos nucifera"
+          },
+          {
+            "synonyms": "kola",
+            "answer": "Musa paradisiaca"
+          },
+          {
+            "synonyms": "alu",
+            "answer": "Solanum tuberosum"
+          },
+          {
+            "synonyms": "gom",
+            "answer": "Triticum aestivum"
+          },
+          {
+            "synonyms": "sorisha",
+            "answer": "Brassica napus"
+          },
+          {
+            "synonyms": "kolera roger jibanu",
+            "answer": "Vibrio cholerae"
+          },
+          {
+            "synonyms": "maleria roger jibanu",
+            "answer": "Plasmodium vivax"
+          },
+          {
+            "synonyms": "jokkhaa roger jibanu",
+            "answer": "Mycobacterium tuberculosis"
+          },
+          {
+            "synonyms": "diptheria roger jibanu",
+            "answer": "Corynebacterium diphtheriae"
+          },
+          {
+            "synonyms": "influenza virus",
+            "answer": "Influenza virus"
+          },
+          {
+            "synonyms": "arshola",
+            "answer": "Periplaneta americana"
+          },
+          {
+            "synonyms": "moumachi",
+            "answer": "Apis indica"
+          },
+          {
+            "synonyms": "tepworm (fita krimi)",
+            "answer": "Taenia solium"
+          },
+          {
+            "synonyms": "oktopus",
+            "answer": "Octopus vulgaris"
+          },
+          {
+            "synonyms": "ilish",
+            "answer": "Tenualosa ilisha"
+          },
+          {
+            "synonyms": "rui",
+            "answer": "Labeo rohita"
+          },
+          {
+            "synonyms": "pangash",
+            "answer": "Pangasius pangasius"
+          },
+          {
+            "synonyms": "shing mach",
+            "answer": "Heteropneustes fossilis"
+          },
+          {
+            "synonyms": "kakra",
+            "answer": "Scylla serrata"
+          },
+          {
+            "synonyms": "kuno bang",
+            "answer": "Duttaphrynus melanostictus (Bufo melanostictus)"
+          },
+          {
+            "synonyms": "gesho bang",
+            "answer": "Hyla arborea"
+          },
+          {
+            "synonyms": "gosap",
+            "answer": "Varanus bengalensis"
+          },
+          {
+            "synonyms": "kachhop",
+            "answer": "Chelonia mydas"
+          },
+          {
+            "synonyms": "doel",
+            "answer": "Copsychus saularis"
+          },
+          {
+            "synonyms": "shalik",
+            "answer": "Acridotheres tristis"
+          },
+          {
+            "synonyms": "moyna",
+            "answer": "Gracula religiosa"
+          },
+          {
+            "synonyms": "kobutor",
+            "answer": "Columba livia"
+          },
+          {
+            "synonyms": "chil",
+            "answer": "Milvus migrans"
+          },
+          {
+            "synonyms": "royal bengal tiger",
+            "answer": "Panthera tigris"
+          },
+          {
+            "synonyms": "manush",
+            "answer": "Homo sapiens"
+          },
+          {
+            "synonyms": "hati",
+            "answer": "Elephas maximus"
+          },
+          {
+            "synonyms": "bonrui",
+            "answer": "Manis pentadactyla"
+          },
+          {
+            "synonyms": "badur",
+            "answer": "Pteropus giganteus"
+          },
+          {
+            "synonyms": "singh",
+            "answer": "Panthera leo"
+          },
+          {
+            "synonyms": "banor",
+            "answer": "Macaca mulatta"
+          },
+          {
+            "synonyms": "shiyal",
+            "answer": "Vulpes bengalensis"
+          },
+        
+              
 
 
 
