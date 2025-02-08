@@ -951,6 +951,481 @@
 
 
 
+      {
+        "synonyms": "1st element ec",
+        "answer": "1s2"
+      },
+      {
+        "synonyms": "2nd element ec",
+        "answer": "1s2 2s2"
+      },
+      {
+        "synonyms": "3rd element ec",
+        "answer": "1s2 2s2 2p1"
+      },
+      {
+        "synonyms": "4th element ec",
+        "answer": "1s2 2s2 2p2"
+      },
+      {
+        "synonyms": "5th element ec",
+        "answer": "1s2 2s2 2p3"
+      },
+      {
+        "synonyms": "6th element ec",
+        "answer": "1s2 2s2 2p4"
+      },
+      {
+        "synonyms": "7th element ec",
+        "answer": "1s2 2s2 2p5"
+      },
+      {
+        "synonyms": "8th element ec",
+        "answer": "1s2 2s2 2p6"
+      },
+      {
+        "synonyms": "9th element ec",
+        "answer": "1s2 2s2 2p6 3s1"
+      },
+      {
+        "synonyms": "10th element ec",
+        "answer": "1s2 2s2 2p6 3s2"
+      },
+      {
+        "synonyms": "11th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p1"
+      },
+      {
+        "synonyms": "12th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p2"
+      },
+      {
+        "synonyms": "13th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p3"
+      },
+      {
+        "synonyms": "14th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p4"
+      },
+      {
+        "synonyms": "15th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p5"
+      },
+      {
+        "synonyms": "16th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6"
+      },
+      {
+        "synonyms": "17th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s1"
+      },
+      {
+        "synonyms": "18th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2"
+      },
+      {
+        "synonyms": "19th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d1"
+      },
+      {
+        "synonyms": "20th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d2"
+      },
+      {
+        "synonyms": "21st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d3"
+      },
+      {
+        "synonyms": "22nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d4"
+      },
+      {
+        "synonyms": "23rd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d5"
+      },
+      {
+        "synonyms": "24th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s1 3d5"
+      },
+      {
+        "synonyms": "25th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d5"
+      },
+      {
+        "synonyms": "26th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d6"
+      },
+      {
+        "synonyms": "27th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d7"
+      },
+      {
+        "synonyms": "28th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d8"
+      },
+      {
+        "synonyms": "29th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s1 3d10"
+      },
+      {
+        "synonyms": "30th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10"
+      },
+      {
+        "synonyms": "31st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1"
+      },
+      {
+        "synonyms": "32nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p2"
+      },
+      {
+        "synonyms": "33rd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3"
+      },
+      {
+        "synonyms": "34th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p4"
+      },
+      {
+        "synonyms": "35th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p5"
+      },
+      {
+        "synonyms": "36th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6"
+      },
+      {
+        "synonyms": "37th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s1"
+      },
+      {
+        "synonyms": "38th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2"
+      },
+      {
+        "synonyms": "39th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d1"
+      },
+      {
+        "synonyms": "40th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d2"
+      },
+      {
+        "synonyms": "41st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d3"
+      },
+      {
+        "synonyms": "42nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d4"
+      },
+      {
+        "synonyms": "43rd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5"
+      },
+      {
+        "synonyms": "44th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d6"
+      },
+      {
+        "synonyms": "45th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d7"
+      },
+      {
+        "synonyms": "46th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d8"
+      },
+      {
+        "synonyms": "47th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d9"
+      },
+      {
+        "synonyms": "48th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10"
+      },
+      {
+        "synonyms": "49th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1"
+      },
+      {
+        "synonyms": "50th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2"
+      },
+      {
+        "synonyms": "51st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3"
+      },
+      {
+        "synonyms": "52nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4"
+      },
+      {
+        "synonyms": "53rd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5"
+      },
+      {
+        "synonyms": "54th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6"
+      },
+      {
+        "synonyms": "55th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1"
+      },
+      {
+        "synonyms": "56th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2"
+      },
+      {
+        "synonyms": "57th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f1"
+      },
+      {
+        "synonyms": "58th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f2"
+      },
+      {
+        "synonyms": "59th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3"
+      },
+      {
+        "synonyms": "60th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4"
+      },
+      {
+        "synonyms": "61st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5"
+      },
+      {
+        "synonyms": "62nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6"
+      },
+      {
+        "synonyms": "63rd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7"
+      },
+      {
+        "synonyms": "64th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f8"
+      },
+      {
+        "synonyms": "65th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9"
+      },
+      {
+        "synonyms": "66th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10"
+      },
+      {
+        "synonyms": "67th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11"
+      },
+      {
+        "synonyms": "68th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12"
+      },
+      {
+        "synonyms": "69th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13"
+      },
+      {
+        "synonyms": "70th element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14"
+      },
+      {
+        "synonyms": "71st element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f15"
+      },
+      {
+        "synonyms": "72nd element ec",
+        "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f16"
+      },
+      
+        {
+          "synonyms": "73rd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d3"
+        },
+        {
+          "synonyms": "74th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d4"
+        },
+        {
+          "synonyms": "75th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d5"
+        },
+        {
+          "synonyms": "76th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d6"
+        },
+        {
+          "synonyms": "77th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d7"
+        },
+        {
+          "synonyms": "78th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d8"
+        },
+        {
+          "synonyms": "79th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d9"
+        },
+        {
+          "synonyms": "80th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10"
+        },
+        {
+          "synonyms": "81st element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p1"
+        },
+        {
+          "synonyms": "82nd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p2"
+        },
+        {
+          "synonyms": "83rd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p3"
+        },
+        {
+          "synonyms": "84th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p4"
+        },
+        {
+          "synonyms": "85th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p5"
+        },
+        {
+          "synonyms": "86th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6"
+        },
+        {
+          "synonyms": "87th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s1"
+        },
+        {
+          "synonyms": "88th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2"
+        },
+        {
+          "synonyms": "89th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f1"
+        },
+        {
+          "synonyms": "90th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f2"
+        },
+        {
+          "synonyms": "91st element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f3"
+        },
+        {
+          "synonyms": "92nd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f4"
+        },
+        {
+          "synonyms": "93rd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f5"
+        },
+        {
+          "synonyms": "94th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f6"
+        },
+        {
+          "synonyms": "95th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f7"
+        },
+        {
+          "synonyms": "96th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f8"
+        },
+        {
+          "synonyms": "97th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f9"
+        },
+        {
+          "synonyms": "98th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f10"
+        },
+        {
+          "synonyms": "99th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f11"
+        },
+        {
+          "synonyms": "100th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12"
+        },
+        {
+          "synonyms": "101st element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d1"
+        },
+        {
+          "synonyms": "102nd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d2"
+        },
+        {
+          "synonyms": "103rd element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d3"
+        },
+        {
+          "synonyms": "104th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d4"
+        },
+        {
+          "synonyms": "105th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d5"
+        },
+        {
+          "synonyms": "106th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d6"
+        },
+        {
+          "synonyms": "107th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d7"
+        },
+        {
+          "synonyms": "108th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d8"
+        },
+        {
+          "synonyms": "109th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d9"
+        },
+        {
+          "synonyms": "110th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f12 5d10"
+        },
+        {
+          "synonyms": "111th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f13"
+        },
+        {
+          "synonyms": "112th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14"
+        },
+        {
+          "synonyms": "113th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p1"
+        },
+        {
+          "synonyms": "ec of 114",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p2"
+        },
+        {
+          "synonyms": "115th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p3"
+        },
+        {
+          "synonyms": "116th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p4"
+        },
+        {
+          "synonyms": "117th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p5"
+        },
+        {
+          "synonyms": "118th element ec",
+          "answer": "1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 6s2 4f14 5p6"
+        },
+           
+
 
 
 
